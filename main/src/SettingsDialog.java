@@ -7,5 +7,6 @@ public class SettingsDialog {
     
         System.out.println("asdqwf");
         System.out.println("ikinci sys");
+        System.out.println("sonuncu ve cok buyuk hatali");
     }
 }
